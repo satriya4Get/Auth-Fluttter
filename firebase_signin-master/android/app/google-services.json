@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823250206272",
+    "project_id": "auth-147ed",
+    "storage_bucket": "auth-147ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823250206272:android:75f9542ee1e1c7fe38a9a5",
+        "android_client_info": {
+          "package_name": "com.example.firebase_signin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnqnzNEIyDTrusRlAU77-2zfGu6Fzc7nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
